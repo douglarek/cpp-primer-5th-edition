@@ -1,0 +1,6 @@
+add_executable(3_2-1 3_2-1.cc)
+add_executable(3_2-2 3_2-2.cc)
+add_executable(3_4-1 3_4-1.cc)
+add_executable(3_4-2 3_4-2.cc)
+add_executable(3_5-1 3_5-1.cc)
+add_executable(3_5-2 3_5-2.cc)
